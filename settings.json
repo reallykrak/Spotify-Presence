@@ -1,6 +1,6 @@
 {
-    "tokens": ["DISCORD_USER_TOKEN"],
-    "channels": ["VOICE_CHANNEL_ID"],
-    "Client": "SPOTIFY_CLIENT_ID",
-    "Secret": "SPOTIFY_CLIENT_SECRET"
+    "tokens": ["deneme"],
+    "channels": ["1380175257431965726"],
+    "Client": "93685111a69045e49ba58a91a8ea64e0",
+    "Secret": "f5666ab681d34dfbb9273b4c9ac1753f"
 }
